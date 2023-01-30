@@ -39,7 +39,15 @@ body {
     font-family: 'Roboto', sans-serif;
     clear: both;
     text-align: center;
+    border-radius: 10%;
+    padding: 10px 20px;
+    background-color: #c5c8cf;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
 
+}
+#habilidades:hover{
+    background-color: rgb(88, 91, 255);
 }
   .tarjeta {
     font-family: 'Roboto', sans-serif;
